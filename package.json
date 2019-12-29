@@ -1,5 +1,5 @@
 {
-  "name": "ab-binary-range",
+  "name": "ab-binrange",
   "version": "1.0.0",
   "description": "Iteration in the way binary search iterate",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteand/ab-binary-range.git"
+    "url": "git+https://github.com/whiteand/ab-binrange.git"
   },
   "keywords": [
     "data",
@@ -31,9 +31,9 @@
   "author": "AndrewBeletskiy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whiteand/ab-binary-range/issues"
+    "url": "https://github.com/whiteand/ab-binrange/issues"
   },
-  "homepage": "https://github.com/whiteand/ab-binary-range#readme",
+  "homepage": "https://github.com/whiteand/ab-binrange#readme",
   "devDependencies": {
     "@types/jest": "^24.0.25",
     "jest": "^24.9.0",
