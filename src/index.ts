@@ -38,7 +38,7 @@ export function* xbinrange(
     return;
   }
 
-  const length = Math.floor(Math.abs((start - end) / step));
+  const length = Math.ceil(Math.abs((start - end) / step));
   for (const index of _xbinrange(0, length)) {
     const value = start + index * step;
     yield value;
